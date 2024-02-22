@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Labels_ss-form--input ss-form--inp_9de3da</name>
+   <tag></tag>
+   <elementGuidId>d54c275c-b103-4b8b-ab7e-49d3a4d3ebaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.ss-form--input.ss-form--input--textarea.ss-form--input--error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div/div/div[3]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[2]/div/div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>94085ac2-ec96-4195-9640-8f1813242229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-form--input ss-form--input--textarea ss-form--input--error</value>
+      <webElementGuid>09aa63d7-df26-47bf-9781-acb5d18ac5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx--fw ss-main-wrapper&quot;]/div[@class=&quot;wrapper--csat-chat fx-row fx--fw fx-ai--start&quot;]/div[@class=&quot;fx-grow-1 mw-100&quot;]/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx-grow-1 mw-100&quot;]/div[@class=&quot;ss-share--wrapper fx-row fx-jc--center&quot;]/div[@class=&quot;ss-share--container fx-row fx-ai--stretch fx-as--center mt--auto mb--auto&quot;]/div[@class=&quot;ss-share-form--wrapper&quot;]/div[@class=&quot;ss-nps-share-sms-form--wrapper fx-column&quot;]/div[@class=&quot;grid grid-nogutter ss-animate--fadeIn&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;ss-nps-schedule-from--wrapper&quot;]/div[@class=&quot;fx--fw&quot;]/div[@class=&quot;flex_column ss-form--input-group mb--zero-0 pb--zero&quot;]/div[@class=&quot;flex_column ss-form--input-group ss-form--input-group__no-margin&quot;]/textarea[@class=&quot;ss-form--input ss-form--input--textarea ss-form--input--error&quot;]</value>
+      <webElementGuid>c9112e7b-b5a0-4c6a-a78c-188745242326</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div/div/div[3]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[2]/div/div[2]/textarea</value>
+      <webElementGuid>f2e4cae3-eeea-43ca-92b9-cfaa64c65f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>6e83d21c-f28f-400c-98b5-dede4bc5ad0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

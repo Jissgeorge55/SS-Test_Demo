@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Survey</name>
+   <tag></tag>
+   <elementGuidId>6d2ead3e-6741-42f1-b77d-d9e93df8370d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div[2]/div/div/div[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ss-button.ss-button__primary.border-radius--xxl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5b0f4c6-2ebf-489b-98cd-360579bf662e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-button ss-button__primary border-radius--xxl</value>
+      <webElementGuid>5761a6d1-7fac-4054-80e9-133ae0a9a6b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ebea4d6-805f-4fb2-a550-1cd37fa0356f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Survey</value>
+      <webElementGuid>4624b8c6-5478-422d-a7e3-30dc739b6e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;ss-modal--wrapper ss-modal--wrapper__sm&quot;]/div[@class=&quot;ss-modal--container&quot;]/div[@class=&quot;ptb--lg wplr--sm&quot;]/div[@class=&quot;fx-row fx-jc--end mt--lg&quot;]/a[@class=&quot;ss-button ss-button__primary border-radius--xxl&quot;]</value>
+      <webElementGuid>bf02c03a-2664-413e-a0bd-2a09b031680c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div[2]/div/div/div[5]/a</value>
+      <webElementGuid>a48bf5cc-2165-44ac-a6a8-02f5b2fb5cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create Survey')]</value>
+      <webElementGuid>bd707e2f-0fd1-4d2d-9175-da6952472427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Surveys'])[1]/following::a[1]</value>
+      <webElementGuid>92cc4e99-a9b5-41c4-8e0d-c5ed393e4f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Folder'])[1]/following::a[1]</value>
+      <webElementGuid>7c08ae4c-d11e-4bfa-99dc-de600fe67390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a</value>
+      <webElementGuid>821b7e7e-06b7-4afb-a1bf-371ec94ff8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Create Survey' or . = 'Create Survey')]</value>
+      <webElementGuid>a38b45b0-574f-4542-a7c2-f5681a1fbb2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

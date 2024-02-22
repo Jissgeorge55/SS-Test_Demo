@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Classic FormTest_AutomationIn My Survey_a0fd66</name>
+   <tag></tag>
+   <elementGuidId>ab6f3bb5-7072-41ec-9e6f-c786def69938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div/div/div[3]/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.no-gutters.w-100.py-5.px-xl-3.ss-dashboard__list-item.justify-content-between.align-items-center.background-color--white.pointer--cursor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d9a7b734-f4e2-4d5d-b161-9b88cb433e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row no-gutters w-100 py-5 px-xl-3 ss-dashboard__list-item justify-content-between align-items-center background-color--white pointer--cursor</value>
+      <webElementGuid>b26ac114-1629-4dfe-8c17-6eefac3e4695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Classic FormTest_AutomationIn My Surveys . Last Modified: 1s ago08 Jul 2023, 09:02 PM2Questions0Responses--Completion Rate</value>
+      <webElementGuid>d2390073-47e1-4590-b7a9-102174aa91b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx--fw ss-main-wrapper ss-main-wrapper--fixed-scrolling&quot;]/div[@class=&quot;ss-dashboard--wrapper fx-row fx-ai--stretch bg-grey-7 ss-upgradebar--active&quot;]/div[@class=&quot;ss-dashboard--container fx--fh fx-grow-1 fx-column pt-5 pt-xl-6&quot;]/div[@class=&quot;ss-dashboard-home--wrapper&quot;]/div[@class=&quot;ss-dashboard--contents px-5 px-xl-11 pb-7&quot;]/div[@class=&quot;ss-dashboard--inner-container px-5 px-xl-6 py-5 py-xl-7 h-100 bg-white&quot;]/div[@class=&quot;ss-dashboard__survey-list-container ss-scrollbar--hide ss-animate--fadeIn&quot;]/div[@class=&quot;row no-gutters w-100 py-5 px-xl-3 ss-dashboard__list-item justify-content-between align-items-center background-color--white pointer--cursor&quot;]</value>
+      <webElementGuid>7cb0d1a3-28a8-47f8-8b2b-cc1bdaf4ca60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div/div/div[3]/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>2c9670f7-3168-46f0-a5f4-9b4ea3b7b3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Survey'])[1]/following::div[4]</value>
+      <webElementGuid>5f5f32fa-a369-4678-b452-5274f26f0330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed'])[1]/following::div[5]</value>
+      <webElementGuid>9dbeb0e3-a0aa-4dd0-871b-ee601d7bb1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>d73a7a2a-1f92-4d66-9220-f55926b22fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Classic FormTest_AutomationIn My Surveys . Last Modified: 1s ago08 Jul 2023, 09:02 PM2Questions0Responses--Completion Rate' or . = 'Classic FormTest_AutomationIn My Surveys . Last Modified: 1s ago08 Jul 2023, 09:02 PM2Questions0Responses--Completion Rate')]</value>
+      <webElementGuid>a3588056-9fad-4970-a653-bb436e05dc02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

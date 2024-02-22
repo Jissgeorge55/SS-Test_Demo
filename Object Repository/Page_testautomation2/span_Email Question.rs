@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email Question</name>
+   <tag></tag>
+   <elementGuidId>d04fd076-05ca-4509-b614-885968ff5233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offset--wrapper']/div[2]/table/thead/tr/th[8]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed8d50f9-8012-46b5-bd05-bd68a9e50ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spiketip-pos</name>
+      <type>Main</type>
+      <value>bottom</value>
+      <webElementGuid>0d26b1d9-702c-48cc-b0a5-2861ef205403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spiketip-title</name>
+      <type>Main</type>
+      <value> Email Question</value>
+      <webElementGuid>2645898b-cfa6-4609-a245-9c11e4fc3f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spiketip-size</name>
+      <type>Main</type>
+      <value>lg</value>
+      <webElementGuid>18bf5b16-9560-42c3-9f3f-8abf107b831a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Email Question</value>
+      <webElementGuid>a0103130-1622-473e-b944-281f036e673b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offset--wrapper&quot;)/div[@class=&quot;ss-tabular-responses--table ss-tabular-responses--table--horiz_scroll&quot;]/table[@class=&quot;ss-table ss-table--image ss-table--fixed-layout ss-table--horiz-scroll ss-table--cursor  ss-table--actions ss-table--checkbox&quot;]/thead[@class=&quot;ss-overflow--visible&quot;]/tr[@class=&quot;ss-overflow--visible&quot;]/th[@class=&quot;ss-overflow--visible&quot;]/span[1]</value>
+      <webElementGuid>2e96886f-3151-4c81-ac24-43885225d85a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offset--wrapper']/div[2]/table/thead/tr/th[8]/span</value>
+      <webElementGuid>bd2f20d4-d4af-4b18-aaf2-7e9c0117b193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Question'])[1]/following::span[1]</value>
+      <webElementGuid>daf1ac86-9bcf-41df-9a57-95136b92c5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[1]/following::span[2]</value>
+      <webElementGuid>460faa11-8bbb-449b-ad17-70f443dda208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[3]/preceding::span[1]</value>
+      <webElementGuid>b6ff208c-2cd0-42fe-ae6e-cb1992d50173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/preceding::span[2]</value>
+      <webElementGuid>9c00031e-7d70-40dd-87bd-271ebf696ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email Question']/parent::*</value>
+      <webElementGuid>91bfd177-491c-4d6b-af56-5794be59117f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[8]/span</value>
+      <webElementGuid>f5254eea-b7d5-480b-a9cd-a18d91df6592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Email Question' or . = ' Email Question')]</value>
+      <webElementGuid>54fc8600-da80-45a9-9aaf-4a2622931a23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

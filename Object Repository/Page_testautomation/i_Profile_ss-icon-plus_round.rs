@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Profile_ss-icon-plus_round</name>
+   <tag></tag>
+   <elementGuidId>30eb7b6f-4108-4922-8c2f-1c2ba4aeab28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div/div/div[2]/div[2]/div/div/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>60ca2e66-bb3c-4a6d-a3f0-7de1cef31975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-icon-plus_round  </value>
+      <webElementGuid>18622a07-7fc1-4a48-8cc1-5005a8392889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cc7a7818-644c-4667-b092-9be92d73fea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx--fw ss-main-wrapper&quot;]/div[@class=&quot;wrapper--classic fx-row fx--fw fx-ai--start&quot;]/div[@class=&quot;fx-grow-1 mw-100&quot;]/div[@class=&quot;ss-builder--wrapper fx-row fx-ai--stretch&quot;]/div[@class=&quot;left_sidebar sidebar_builder border-right&quot;]/div[@class=&quot;left_sidebar_content c_gp1&quot;]/div[@class=&quot;left_sidebar_section&quot;]/div[@class=&quot;ss-builder-add-new ss-builder-add-new--sm-sidebar-card&quot;]/div[@class=&quot;icon-wrapper&quot;]/i[@class=&quot;ss-icon-plus_round&quot;]</value>
+      <webElementGuid>cd1c6934-954e-424a-ab97-e5ba9b54b6fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div/div/div[2]/div[2]/div/div/div/div/div/div/i</value>
+      <webElementGuid>26c1a0b0-46df-41c7-a902-679094d7afdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>1c842630-797e-429f-bbda-c17cde99fc0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

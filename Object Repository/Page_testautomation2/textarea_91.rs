@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_91</name>
+   <tag></tag>
+   <elementGuidId>2ddbe9bf-98a2-4fb7-88c2-ffb22a221c3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.ss-form--input.ss-form--input--textarea.ss-form--input--error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div/div/div[3]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[2]/div/div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>7e60ff3f-f5cd-4876-a7e9-440c6a159e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-form--input ss-form--input--textarea ss-form--input--error</value>
+      <webElementGuid>7e88fdfd-f5c2-4aa0-b09c-1089da65a773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>=91</value>
+      <webElementGuid>095c9a0d-b3c5-48ca-a37a-caaf6e481660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx--fw ss-main-wrapper&quot;]/div[@class=&quot;wrapper--csat-chat fx-row fx--fw fx-ai--start&quot;]/div[@class=&quot;fx-grow-1 mw-100&quot;]/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx-grow-1 mw-100&quot;]/div[@class=&quot;ss-share--wrapper fx-row fx-jc--center&quot;]/div[@class=&quot;ss-share--container fx-row fx-ai--stretch fx-as--center mt--auto mb--auto&quot;]/div[@class=&quot;ss-share-form--wrapper&quot;]/div[@class=&quot;ss-nps-share-sms-form--wrapper fx-column&quot;]/div[@class=&quot;grid grid-nogutter ss-animate--fadeIn&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;ss-nps-schedule-from--wrapper&quot;]/div[@class=&quot;fx--fw&quot;]/div[@class=&quot;flex_column ss-form--input-group mb--zero-0 pb--zero&quot;]/div[@class=&quot;flex_column ss-form--input-group ss-form--input-group__no-margin&quot;]/textarea[@class=&quot;ss-form--input ss-form--input--textarea ss-form--input--error&quot;]</value>
+      <webElementGuid>3fd8759a-deb6-4713-b14c-57aac2b56967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div/div/div[3]/div/div/div/div/div/div/div/div[3]/div/div[2]/div[2]/div/div[2]/textarea</value>
+      <webElementGuid>aa907876-44f8-4941-bfc6-86ddf999dd7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Labels'])[1]/following::textarea[1]</value>
+      <webElementGuid>6a4bdfe1-3a87-45c8-8650-96267e4a0393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Lists'])[1]/following::textarea[1]</value>
+      <webElementGuid>297790f1-b4e2-4410-81d8-b97814563689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid Phone number'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>390953d5-c3b2-49d2-bf47-027f7ccbde40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import from CSV'])[2]/preceding::textarea[1]</value>
+      <webElementGuid>d03c794b-6eb7-4dea-a985-e3f59ef42a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='=91']/parent::*</value>
+      <webElementGuid>0b9dc4a3-96b3-4535-82dd-85a347d49463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>52541dbc-f1ad-4f3f-8fa2-84a819f0c3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[(text() = '=91' or . = '=91')]</value>
+      <webElementGuid>bb61376b-42f8-4b4e-82ab-43782f3aaf1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

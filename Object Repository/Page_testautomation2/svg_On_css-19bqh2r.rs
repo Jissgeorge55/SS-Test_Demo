@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_On_css-19bqh2r</name>
+   <tag></tag>
+   <elementGuidId>fe18620d-0c4d-4e1f-935f-31365d1fdee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1thkkgx-indicatorContainer.ss-react-select__indicator.ss-react-select__dropdown-indicator > svg.css-19bqh2r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='On'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f62d62ab-37d4-4953-9007-5a67eee94251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>d02b0dc7-4d38-41c4-9909-cab66b9e583e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>910af59b-366c-4e60-833f-19be2ddb370c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>d59e2afb-bc31-4f00-bf0f-68ed123e7b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>022bc43b-1ae9-458d-8bb0-b0a2d4081a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d6e90ca5-bf36-4944-b69a-c4acfc318590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19bqh2r</value>
+      <webElementGuid>fda1feb5-346e-45c8-a912-88b3b3a6f45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx--fw ss-main-wrapper&quot;]/div[@class=&quot;wrapper--csat-chat fx-row fx--fw fx-ai--start&quot;]/div[@class=&quot;fx-grow-1 mw-100&quot;]/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx-grow-1 mw-100&quot;]/div[@class=&quot;ss-share--wrapper fx-row fx-jc--center&quot;]/div[@class=&quot;ss-share--container fx-row fx-ai--stretch fx-as--center mt--auto mb--auto&quot;]/div[@class=&quot;ss-share-form--wrapper&quot;]/div[@class=&quot;ss-nps-share-sms-form--wrapper fx-column&quot;]/div[@class=&quot;grid grid-nogutter ss-animate--fadeIn&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;ss-nps-schedule-from--wrapper&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-3&quot;]/div[@class=&quot;flex_column ss-form--input-group&quot;]/div[@class=&quot;css-1pcexqc-container ss-react-select-container&quot;]/div[@class=&quot;css-1szy77t-control ss-react-select__control ss-react-select__control--is-focused ss-react-select__control--menu-is-open&quot;]/div[@class=&quot;css-1wy0on6 ss-react-select__indicators&quot;]/div[@class=&quot;css-1thkkgx-indicatorContainer ss-react-select__indicator ss-react-select__dropdown-indicator&quot;]/svg[@class=&quot;css-19bqh2r&quot;]</value>
+      <webElementGuid>a009f479-a30d-4bb7-aeea-11d15597abf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3b25727e-eb3f-4508-a50c-85bd6d5c992e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEEKLY'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>f30c1b2a-02ec-4cb0-94a3-b577f83a7fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c0c3b757-844f-49a3-9de4-89855e057967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b8eafd14-7710-4eac-bd5c-4f7ca99d358d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

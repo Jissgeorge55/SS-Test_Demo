@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Test_Automation</name>
+   <tag></tag>
+   <elementGuidId>e96cf27f-f595-431a-8651-ab5d0afe3e94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/div/div[3]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.ss-text.ss-text__size--h3.ss-text__weight--semibold.ss-text__color--black.mb--xs.ss-text__overflow-wrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>9b616027-34b9-40e4-a875-fc7892d8e1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-text ss-text__size--h3 ss-text__weight--semibold ss-text__color--black mb--xs ss-text__overflow-wrap</value>
+      <webElementGuid>312eab6b-5e82-4755-a656-089c980d4923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test_Automation</value>
+      <webElementGuid>1fc214ff-aadf-4592-93a0-390221f93a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx--fw ss-main-wrapper ss-main-wrapper--fixed-scrolling&quot;]/div[@class=&quot;ss-dashboard--wrapper fx-row fx-ai--stretch bg-grey-7 ss-upgradebar--active&quot;]/div[@class=&quot;ss-dashboard--container fx--fh fx-grow-1 fx-column pt-5 pt-xl-6&quot;]/div[@class=&quot;ss-dashboard-home--wrapper&quot;]/div[@class=&quot;ss-dashboard--contents px-5 px-xl-11 pb-7&quot;]/div[@class=&quot;ss-dashboard--inner-container px-5 px-xl-6 py-5 py-xl-7 h-100 bg-white&quot;]/div[@class=&quot;ss-dashboard__survey-list-container ss-scrollbar--hide ss-animate--fadeIn&quot;]/div[@class=&quot;row no-gutters w-100 py-5 px-xl-3 ss-dashboard__list-item justify-content-between align-items-center background-color--white pointer--cursor&quot;]/div[@class=&quot;ss-dashboard__list-item--left col-12 col-xl-5 pe-0 pe-xl-5&quot;]/div[@class=&quot;d-flex align-items-center flex-wrap flex-md-nowrap&quot;]/div[@class=&quot;d-flex flex-column ss-dashboard__list-item--left-desc mt-3 mt-xl-0&quot;]/h3[@class=&quot;ss-text ss-text__size--h3 ss-text__weight--semibold ss-text__color--black mb--xs ss-text__overflow-wrap&quot;]</value>
+      <webElementGuid>56f36fde-282f-4044-89dc-346e9aeb1abd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/div/div[3]/h3</value>
+      <webElementGuid>2437ebde-4681-4fc2-94d2-2907ecc0bd07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Survey'])[1]/following::h3[1]</value>
+      <webElementGuid>a73c36da-6de9-4c97-858d-7810138d4f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed'])[1]/following::h3[1]</value>
+      <webElementGuid>789f6217-16b1-418c-9e6a-f10851004ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[1]/preceding::h3[2]</value>
+      <webElementGuid>65fc44e1-b5ac-46b0-82cc-7b800a76dd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test_Automation']/parent::*</value>
+      <webElementGuid>f13a02d0-db11-4ee7-b4fe-3afc0a564afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h3</value>
+      <webElementGuid>ef11a8eb-8901-4e1b-85b7-1eafa3ff3d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Test_Automation' or . = 'Test_Automation')]</value>
+      <webElementGuid>0f5cf136-856d-47e6-a2ba-bbd81e234fbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

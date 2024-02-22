@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Opinion Question</name>
+   <tag></tag>
+   <elementGuidId>11e1a1ad-44a9-41fa-9340-15c2a3f0d929</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offset--wrapper']/div[2]/table/thead/tr/th[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>7c83ae5c-2d03-4137-9af9-72d90f1afe0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-overflow--visible </value>
+      <webElementGuid>2bfaa74f-519d-4bdb-b162-6270e86ac202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Opinion Question</value>
+      <webElementGuid>a4150958-7450-492d-b18d-315980ac5d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offset--wrapper&quot;)/div[@class=&quot;ss-tabular-responses--table ss-tabular-responses--table--horiz_scroll&quot;]/table[@class=&quot;ss-table ss-table--image ss-table--fixed-layout ss-table--horiz-scroll ss-table--cursor  ss-table--actions ss-table--checkbox&quot;]/thead[@class=&quot;ss-overflow--visible&quot;]/tr[@class=&quot;ss-overflow--visible&quot;]/th[@class=&quot;ss-overflow--visible&quot;]</value>
+      <webElementGuid>7178d6f3-1fd0-4646-9528-4f57ee973552</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offset--wrapper']/div[2]/table/thead/tr/th[4]</value>
+      <webElementGuid>0b1e5262-5f95-4cd3-a25d-f410861b35d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Response Info'])[2]/following::th[1]</value>
+      <webElementGuid>0832b997-3026-4bc6-bd2a-19f8f236c7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::th[2]</value>
+      <webElementGuid>5378d97e-d523-449c-83a7-b2c82e37f429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Choice Que...'])[1]/preceding::th[1]</value>
+      <webElementGuid>1eec448d-8207-4976-9c44-10f64a8bb5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]</value>
+      <webElementGuid>d64770e9-0098-44aa-99e2-3525a08c5d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Opinion Question' or . = ' Opinion Question')]</value>
+      <webElementGuid>b9ee6dc8-a02c-488d-aa23-a3a259bf8cce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

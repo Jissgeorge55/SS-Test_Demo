@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_This is a opinion question</name>
+   <tag></tag>
+   <elementGuidId>451650d7-0146-44c9-a398-1fc90cc91cf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='question-title-1000139113']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.d-block.ss-survey-heading--text__span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4927f01d-9bc0-4d65-8c81-a39d85055a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block ss-survey-heading--text__span</value>
+      <webElementGuid>8c5740f0-0392-414c-a17a-5a7e5c98c61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is a opinion question</value>
+      <webElementGuid>213bd6a4-767c-47d7-afcc-ff4034c7fa8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;question-title-1000139113&quot;)/span[@class=&quot;d-block ss-survey-heading--text__span&quot;]</value>
+      <webElementGuid>cb9dac8d-5bae-453b-b658-ae1b636e94bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h1[@id='question-title-1000139113']/span</value>
+      <webElementGuid>58cf49cb-cbff-4c20-9269-b0f77b449230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Least Likely'])[1]/preceding::span[1]</value>
+      <webElementGuid>8e424c1f-4ece-41ba-821d-309fc033ca23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neutral'])[1]/preceding::span[1]</value>
+      <webElementGuid>213ad86e-10b4-40a9-b4d2-bcad8c19fb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This is a opinion question']/parent::*</value>
+      <webElementGuid>adb0cbab-dbe8-48bf-9fac-bf6165bbfcc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>d6e98162-6f09-4141-9c8e-586bf22b24ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'This is a opinion question' or . = 'This is a opinion question')]</value>
+      <webElementGuid>fde08e19-2e6a-48ae-bab4-cb07b99097ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

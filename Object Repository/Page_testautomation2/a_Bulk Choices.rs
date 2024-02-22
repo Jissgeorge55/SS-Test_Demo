@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bulk Choices</name>
+   <tag></tag>
+   <elementGuidId>e22bc500-9047-4d66-adbf-88365fd0e591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='settings']/div/span/div/div[4]/div[2]/div/div/div/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9604c4ab-435e-42b6-b2fd-5bf353a60d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>cf8286ab-6c00-438b-998a-1625231a1a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bulk Choices</value>
+      <webElementGuid>dc7bd73b-868c-472f-a62d-48e4869e5e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;settings&quot;)/div[@class=&quot;c_builder_contents&quot;]/span[@class=&quot;ss_builder_container&quot;]/div[@class=&quot;ss_content_wrapper&quot;]/div[@class=&quot;ss_row--builder&quot;]/div[@class=&quot;ss_question_settings_container&quot;]/div[@class=&quot;c-br-actions&quot;]/div[@class=&quot;ss_builder_container_boxed_title_bg flex-wrap box--bordered&quot;]/div[@class=&quot;c-br-actions-left&quot;]/div[@class=&quot;bordered_btn_right&quot;]/a[@class=&quot;btn&quot;]</value>
+      <webElementGuid>f6bc5dd5-94f4-4644-ac33-df477f4f099d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='settings']/div/span/div/div[4]/div[2]/div/div/div/div[4]/a</value>
+      <webElementGuid>b45cb6a4-4730-402e-b1e4-5462f4cf15c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bulk Choices')]</value>
+      <webElementGuid>f30f2508-c4ab-4661-b4fe-d473ed1cffc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logic'])[1]/following::a[1]</value>
+      <webElementGuid>135b7fb7-817b-4a3f-ab06-fe5ca0e4af03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/following::a[2]</value>
+      <webElementGuid>c7359139-9564-4687-9999-a874635bf57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Score'])[1]/preceding::a[1]</value>
+      <webElementGuid>2b9933ba-ba94-4410-9340-d62fa8734697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/preceding::a[1]</value>
+      <webElementGuid>dcaeaa9b-77bd-4230-a472-73906b06db78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bulk Choices']/parent::*</value>
+      <webElementGuid>dbe68a35-fc53-4ff2-bf75-0ed4bf55c5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>8d9dc71a-b28e-4c5b-a3da-be8497307ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Bulk Choices' or . = 'Bulk Choices')]</value>
+      <webElementGuid>e331b9cc-f6b9-43c4-a0f9-63ae5045e2ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

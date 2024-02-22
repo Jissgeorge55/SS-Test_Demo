@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_testtestmail.com</name>
+   <tag></tag>
+   <elementGuidId>17b135b9-24e6-41da-96b6-a0c41b804f08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(8)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offset--wrapper']/div[2]/table/tbody/tr/td[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cff4217d-49bd-4b73-877e-855a53656178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test@testmail.com</value>
+      <webElementGuid>6a726771-0837-4330-a763-a66a20e39533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offset--wrapper&quot;)/div[@class=&quot;ss-tabular-responses--table ss-tabular-responses--table--horiz_scroll&quot;]/table[@class=&quot;ss-table ss-table--image ss-table--fixed-layout ss-table--horiz-scroll ss-table--cursor  ss-table--actions ss-table--checkbox&quot;]/tbody[@class=&quot;ss-overflow--visible&quot;]/tr[@class=&quot;ss-responses-table-row&quot;]/td[8]</value>
+      <webElementGuid>f37bbabe-f596-4a84-a496-0cf5d3734bfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offset--wrapper']/div[2]/table/tbody/tr/td[8]</value>
+      <webElementGuid>a9591428-b7a0-47fc-9832-768aab63a302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::td[1]</value>
+      <webElementGuid>a237414c-2178-4b5d-a355-f95cad865c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mp 3'])[1]/following::td[3]</value>
+      <webElementGuid>5fed7d97-8642-47f4-8cde-07d8e4ccc4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Response'])[1]/preceding::td[2]</value>
+      <webElementGuid>64ef9026-22be-4c0e-a6cc-a5b623267465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>f7bd2476-455a-4a58-96a3-6db5e1e230c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'test@testmail.com' or . = 'test@testmail.com')]</value>
+      <webElementGuid>435f4bae-1b15-44e0-ba3c-e9289b76bc7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

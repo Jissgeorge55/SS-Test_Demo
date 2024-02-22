@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Text Question</name>
+   <tag></tag>
+   <elementGuidId>e77ad7a9-b142-4973-a3e2-c2b50087b019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offset--wrapper']/div[2]/table/thead/tr/th[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>031884d3-5681-4d94-876a-25dd7f699f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-overflow--visible </value>
+      <webElementGuid>30f32d69-5d4e-48ee-9a6c-b553c3b54753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Text Question</value>
+      <webElementGuid>0bb53412-9b70-4965-b289-23cf93fb938d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offset--wrapper&quot;)/div[@class=&quot;ss-tabular-responses--table ss-tabular-responses--table--horiz_scroll&quot;]/table[@class=&quot;ss-table ss-table--image ss-table--fixed-layout ss-table--horiz-scroll ss-table--cursor  ss-table--actions ss-table--checkbox&quot;]/thead[@class=&quot;ss-overflow--visible&quot;]/tr[@class=&quot;ss-overflow--visible&quot;]/th[@class=&quot;ss-overflow--visible&quot;]</value>
+      <webElementGuid>ade02d19-8530-4feb-a680-cffc51671c31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offset--wrapper']/div[2]/table/thead/tr/th[7]</value>
+      <webElementGuid>03c51fab-dae2-4d29-8695-effa6a6a7897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[1]/following::th[1]</value>
+      <webElementGuid>6fbf55bf-a177-4a7d-ae17-d3001e35de96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Choice Que...'])[1]/following::th[2]</value>
+      <webElementGuid>a83ecba0-2fad-4364-b29b-89d2db9ddeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Question'])[1]/preceding::th[1]</value>
+      <webElementGuid>0e521571-42d2-4009-85e7-6c937ec5054e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[7]</value>
+      <webElementGuid>6ec5a979-0d95-461a-9868-8df482236144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Text Question' or . = ' Text Question')]</value>
+      <webElementGuid>f69b0df1-07d9-421f-a588-cc4cce61ebd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

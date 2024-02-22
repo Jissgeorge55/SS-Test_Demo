@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start typing_public-DraftStyleDefault-b_9cab06</name>
+   <tag></tag>
+   <elementGuidId>a8a16ddf-7553-4d7f-8930-32945d1e0264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qcontainer']/div/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.public-DraftStyleDefault-block.public-DraftStyleDefault-ltr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6f4cf8f-76c9-47e5-aeba-39c1efe85d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-offset-key</name>
+      <type>Main</type>
+      <value>1hern-0-0</value>
+      <webElementGuid>1e96c8b0-af3b-4f39-83af-899c744f076f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>public-DraftStyleDefault-block public-DraftStyleDefault-ltr</value>
+      <webElementGuid>43c392b7-1575-4944-85a7-3002ef8410bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;settings&quot;)/div[@class=&quot;c_builder_contents&quot;]/span[@class=&quot;ss_builder_container&quot;]/div[@class=&quot;ss_content_wrapper&quot;]/div[@class=&quot;ss_row--builder&quot;]/div[@class=&quot;ss_chat ss_bot active ss-question-wrapper&quot;]/div[@class=&quot;ss-question-text&quot;]/div[@id=&quot;qcontainer&quot;]/div[1]/div[@class=&quot;DraftEditor-root&quot;]/div[@class=&quot;DraftEditor-editorContainer&quot;]/div[@class=&quot;notranslate public-DraftEditor-content&quot;]/div[1]/div[1]/div[@class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot;]</value>
+      <webElementGuid>d0671831-526f-4035-ac3a-4dcbaa807d59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qcontainer']/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>2c04918f-100a-41f4-89d2-3e631a11b4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start typing...'])[1]/following::div[5]</value>
+      <webElementGuid>45278bac-09d7-4105-ab95-aba29b76ac90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::div[16]</value>
+      <webElementGuid>5f46b0ea-62eb-43fb-b658-63a57b0f71e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add description to your question.'])[1]/preceding::div[8]</value>
+      <webElementGuid>0f5b2b1f-087d-40b8-9f07-adae14ca07b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/preceding::div[40]</value>
+      <webElementGuid>abcd08d2-65c8-418a-810a-e1f384af96a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>65a04caa-2156-41c5-886d-97d1cb99cbb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

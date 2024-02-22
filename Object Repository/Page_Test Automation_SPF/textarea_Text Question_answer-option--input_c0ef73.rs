@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Text Question_answer-option--input_c0ef73</name>
+   <tag></tag>
+   <elementGuidId>e63707b6-d051-48e5-8d50-b19c02fb2f1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.answer-option--input.ss-survey-font-family.ss-survey-text-size--2xl.sm_ss-survey-text-size--lg.ss-survey-line-height--tight.ss-survey-text-weight--regular.ss-survey-border-style--solid.ss-survey-border-color--primary.ss-survey-text-color--secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='question_1000186739']/span/div/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>6b87db8b-6ce6-4fc5-a47c-5a81cec820e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>question-title-1000186739</value>
+      <webElementGuid>146ff181-b3c0-49ec-b228-a6302aea7e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>question-title-1000186739 question-description-1000186739</value>
+      <webElementGuid>58ee3ef2-4427-468f-897e-53489fd645d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>answer-option--input ss-survey-font-family ss-survey-text-size--2xl sm_ss-survey-text-size--lg ss-survey-line-height--tight ss-survey-text-weight--regular ss-survey-border-style--solid ss-survey-border-color--primary  ss-survey-text-color--secondary</value>
+      <webElementGuid>e4952d61-5102-4b46-b194-ca62310f58f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Please enter your response</value>
+      <webElementGuid>abba52e6-92d5-4ee1-a311-6419ed11a0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>9dff4ffa-ad06-4cc7-b284-36a01db959b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;question_1000186739&quot;)/span[@class=&quot;ss_span_wrapper&quot;]/div[@class=&quot;ss_options_container&quot;]/div[@class=&quot;ss_inline_input_container ss_component_animated ss-form-group ss-form-group--lg-col-6 ss_inline_input_voice-container&quot;]/textarea[@class=&quot;answer-option--input ss-survey-font-family ss-survey-text-size--2xl sm_ss-survey-text-size--lg ss-survey-line-height--tight ss-survey-text-weight--regular ss-survey-border-style--solid ss-survey-border-color--primary  ss-survey-text-color--secondary&quot;]</value>
+      <webElementGuid>860f9522-fc4e-4695-9064-59f6225152b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='question_1000186739']/span/div/div/textarea</value>
+      <webElementGuid>8d7ae11b-628e-4f82-9fe2-edfd026f04e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>f0d85d77-641f-4c82-8b91-53ced62b15d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Please enter your response']</value>
+      <webElementGuid>8ae6a71a-1767-45ea-a342-67b89ba4434d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete ChannelChannel deleted successfully</name>
+   <tag></tag>
+   <elementGuidId>baa31e5c-273b-40eb-aa99-69d71851eabe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rrt-middle-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/span/span/div[6]/span/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc16cf0a-98c6-47d6-9d46-4c8938f48f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rrt-middle-container</value>
+      <webElementGuid>62d83270-47a3-4371-8700-87d6eaaed9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete ChannelChannel deleted successfully</value>
+      <webElementGuid>4aeb587f-cc1e-4c02-90a3-d1a247f27c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/span[@class=&quot;redux-toastr&quot;]/span[1]/div[@class=&quot;bottom-center&quot;]/span[1]/div[@class=&quot;toastr animated rrt-success&quot;]/div[1]/div[@class=&quot;rrt-middle-container&quot;]</value>
+      <webElementGuid>010148ae-ce24-4f04-bd9a-52d87e5c1d3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/span/span/div[6]/span/div/div/div[2]</value>
+      <webElementGuid>8958e1fb-8382-4683-8d0b-7c537a64a6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>9fa2e8bb-1b46-481c-883c-78947a2c9af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delete ChannelChannel deleted successfully' or . = 'Delete ChannelChannel deleted successfully')]</value>
+      <webElementGuid>e7440217-9606-4067-a5ae-54ec473391bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

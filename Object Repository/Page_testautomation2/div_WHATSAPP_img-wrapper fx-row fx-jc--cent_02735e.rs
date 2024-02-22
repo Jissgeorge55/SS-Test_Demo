@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WHATSAPP_img-wrapper fx-row fx-jc--cent_02735e</name>
+   <tag></tag>
+   <elementGuidId>d91b18c9-3777-40c5-82dc-b4f8e3a1bd83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div[2]/div/div/div[2]/div/div[2]/div[3]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09083105-0e69-4a13-b235-ca90dab57bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fx-row fx--fw</value>
+      <webElementGuid>722252e6-9bb2-48e8-bfc8-c2c0febb04e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;ss-right-panel-wrapper&quot;]/div[@class=&quot;ss-right-panel-container ss-right-panel-container--large ss-right-panel-container--no-footer&quot;]/div[@class=&quot;ss-right-panel&quot;]/div[@class=&quot;ss-right-panel-contents&quot;]/div[@class=&quot;wplr--sm&quot;]/div[@class=&quot;wpt--sm&quot;]/div[@class=&quot;fx-row fx-ai--start fx--fw wmb--sm ss-responses-answer-block--wrapper&quot;]/div[@class=&quot;fx-column ss-responses-answer-block--right&quot;]/div[@class=&quot;fx-row fx--fw&quot;]</value>
+      <webElementGuid>faa34282-8065-4e3c-a9ca-1426798f2054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-offset-key</name>
+      <type>Main</type>
+      <value>1hern-0-0</value>
+      <webElementGuid>fe5074b3-0f8c-4ea6-a87a-c2016d3b835f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div[2]/div/div/div[2]/div/div[2]/div[3]/div[2]/div[2]</value>
+      <webElementGuid>9a9436b3-3216-41d6-bdf6-aec632ee38e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[1]/following::div[1]</value>
+      <webElementGuid>603357c4-f43e-4ed2-82c3-20c538c99978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mp 3'])[1]/following::div[5]</value>
+      <webElementGuid>c2983925-a11e-464b-8f61-52cd3171a58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Question'])[1]/preceding::div[2]</value>
+      <webElementGuid>2e6398b0-2822-4eb1-bb1b-8bd19c3bfb21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[3]</value>
+      <webElementGuid>7c866ae6-aa05-4fde-9e40-1a533af0821d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]</value>
+      <webElementGuid>e704b060-1c89-4433-bea2-f0e6650f5f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qcontainer']/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>e67577be-c0d6-4be2-b583-2907f6007e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start typing...'])[1]/following::div[5]</value>
+      <webElementGuid>7dcec295-edf1-4470-86c9-bc7ce6b0ea8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::div[16]</value>
+      <webElementGuid>61b68efe-1fe3-4be2-b78b-79fb1f04a054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add description to your question.'])[1]/preceding::div[8]</value>
+      <webElementGuid>b73070a5-52cd-44c6-ac1d-809a6b7b9d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/preceding::div[40]</value>
+      <webElementGuid>50f47e81-c5fb-4d28-9e7e-3e0e0d84079b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>713dc28c-effb-4ddd-9bfb-388185b586c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type section title...'])[1]/following::div[5]</value>
+      <webElementGuid>b9de11f8-acbf-401e-a04f-134a40e192d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter a description'])[1]/preceding::div[2]</value>
+      <webElementGuid>79c41c94-70bd-4a1c-842b-abf87b2e4c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::div[21]</value>
+      <webElementGuid>26ebabee-3664-4d2d-83d5-3e1c21b4cc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>0cd1704c-610a-4631-874c-34d25436afa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='share__sms']/div</value>
+      <webElementGuid>b54fe42e-eebe-4538-9e78-4192300b558a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WHATSAPP'])[1]/following::div[2]</value>
+      <webElementGuid>f311ca15-5b2c-433c-ba2b-0c93984e7393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEBLINK'])[1]/following::div[4]</value>
+      <webElementGuid>8f25a3d9-f141-4f2f-9cf1-db913964bc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS'])[1]/preceding::div[1]</value>
+      <webElementGuid>a4aecf86-03cd-48c1-a405-2acbb62777bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SDK'])[1]/preceding::div[2]</value>
+      <webElementGuid>874172da-9579-469c-9c8d-e873cdf19458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>811b31d8-c724-48f3-82fa-3ee6319b91bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

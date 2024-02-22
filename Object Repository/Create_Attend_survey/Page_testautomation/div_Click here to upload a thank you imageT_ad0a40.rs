@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click here to upload a thank you imageT_ad0a40</name>
+   <tag></tag>
+   <elementGuidId>15a90873-45b4-4d82-8d2d-c720bf4f6a1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='settings']/div/span/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ss_chat.ss_bot.active.ss-question-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8dc48e3e-92c5-4820-ab5a-bed43ea6610b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss_chat ss_bot active ss-question-wrapper</value>
+      <webElementGuid>ccad0b04-dd01-49e8-81f2-82d176efc224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to upload a thank you imageThank you for your time!</value>
+      <webElementGuid>53dfc433-fb55-44a1-8ad9-813469428929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;settings&quot;)/div[@class=&quot;c_builder_contents&quot;]/span[@class=&quot;ss_builder_container&quot;]/div[1]/div[@class=&quot;ss-thankyou-wrapper--builder&quot;]/div[@class=&quot;ss_chat ss_bot active ss-question-wrapper&quot;]</value>
+      <webElementGuid>089b6fb6-0c86-4ce0-9870-b23ed9f4b0de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='settings']/div/span/div/div/div</value>
+      <webElementGuid>79702e3b-e861-4931-b34a-19591e704aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::div[5]</value>
+      <webElementGuid>284fad18-6d66-46c4-9ded-6e41f33e22d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[5]</value>
+      <webElementGuid>f2b036cf-c8b3-4e28-b06a-eea5159ee16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter a description'])[1]/preceding::div[15]</value>
+      <webElementGuid>741aaf43-7599-4c05-9f32-c51f1d9a4c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div</value>
+      <webElementGuid>d487255c-3405-448b-9c4c-c5ff7a84ef21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Click here to upload a thank you imageThank you for your time!' or . = 'Click here to upload a thank you imageThank you for your time!')]</value>
+      <webElementGuid>dbcdeb0d-da55-425f-836f-2fcc3d58d0a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

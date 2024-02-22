@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Submit</name>
+   <tag></tag>
+   <elementGuidId>c6569929-eb4c-4068-9229-9ad988b3b68e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='question_1000139114']/span/div[2]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ss-primary-action-btn.ss-survey-font-family.ss-survey-text-size--base.sm_ss-survey-text-size--base.ss-survey-line-height--tight.ss-survey-text-weight--bold > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dc768e5b-b961-4383-aba8-3b0816ee4af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>33668b8a-5cf9-4e24-8ddd-9bddd3ad96e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;question_1000139114&quot;)/span[@class=&quot;ss_span_wrapper&quot;]/div[@class=&quot;ss_cl_qstn_action&quot;]/div[@class=&quot;active&quot;]/div[@class=&quot;ss_cl_survey_submit_resp&quot;]/div[@class=&quot;ss_cl_survey_submit_resp_btn_wrapper&quot;]/button[@class=&quot;ss-primary-action-btn ss-survey-font-family ss-survey-text-size--base sm_ss-survey-text-size--base ss-survey-line-height--tight ss-survey-text-weight--bold&quot;]/span[1]</value>
+      <webElementGuid>895511bb-f4e7-4fe0-9cf1-865387755b6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='question_1000139114']/span/div[2]/div/div/div/button/span</value>
+      <webElementGuid>82617f72-50a2-4b6c-a03a-45e98b0f4e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a rating question'])[1]/following::span[2]</value>
+      <webElementGuid>d12f055b-aac4-4c8f-ad86-b40796ca05a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENTER'])[1]/preceding::span[1]</value>
+      <webElementGuid>32158a5e-61a1-4b4c-9964-bd51be4f08fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>c805ca19-c3c1-4523-b625-fa702a7e527d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>8ecc8628-fce1-445a-9794-e7a1bd926c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>5c2b0ea1-9454-4fab-8cb4-abd0529b92c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

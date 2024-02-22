@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Survey Title_ss-form--input</name>
+   <tag></tag>
+   <elementGuidId>5c8a56a6-1d2d-48dc-a19c-066855ef33ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ptb--lg.wplr--sm > div.flex_column.ss-form--input-group > div.fx-row.fx-ai--stretch.fx--fw > input.ss-form--input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>522eda76-bf25-4f67-a0a8-417c8e1245a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-form--input</value>
+      <webElementGuid>a26e3b7f-558f-4b73-8dde-9616ed736d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>22771b9e-eaa7-4927-b2a2-c996441440f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;ss-modal--wrapper ss-modal--wrapper__sm&quot;]/div[@class=&quot;ss-modal--container&quot;]/div[@class=&quot;ptb--lg wplr--sm&quot;]/div[@class=&quot;flex_column ss-form--input-group&quot;]/div[@class=&quot;fx-row fx-ai--stretch fx--fw&quot;]/input[@class=&quot;ss-form--input&quot;]</value>
+      <webElementGuid>0b15e5c3-7621-4541-9922-80b2b2c7e53f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>92f8ed97-34ec-42d7-98f1-e86e445f646c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div[2]/div/div/div[2]/div[2]/input</value>
+      <webElementGuid>86b2267b-0679-4499-9421-e2f0d2391997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>dec9d347-10d7-4775-81a5-3bb0a20a7ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>737b863a-2576-4cb0-81b5-a7d835487826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

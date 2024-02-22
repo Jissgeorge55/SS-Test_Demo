@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_mp 3</name>
+   <tag></tag>
+   <elementGuidId>52bf6b11-ad17-4956-a3f1-2ed86e163fbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offset--wrapper']/div[2]/table/tbody/tr/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e4119809-6bdc-49c0-86aa-9fde002186b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mp 3 </value>
+      <webElementGuid>56bf90f9-69a2-48cc-acc4-4a0bb93bb4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offset--wrapper&quot;)/div[@class=&quot;ss-tabular-responses--table ss-tabular-responses--table--horiz_scroll&quot;]/table[@class=&quot;ss-table ss-table--image ss-table--fixed-layout ss-table--horiz-scroll ss-table--cursor  ss-table--actions ss-table--checkbox&quot;]/tbody[@class=&quot;ss-overflow--visible&quot;]/tr[@class=&quot;ss-responses-table-row&quot;]/td[5]</value>
+      <webElementGuid>20614595-13f6-445c-ac36-fd6b2c107b04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offset--wrapper']/div[2]/table/tbody/tr/td[5]</value>
+      <webElementGuid>5cbb1531-46d9-4a58-a26e-d3717e625038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/following::td[3]</value>
+      <webElementGuid>4697e49f-e886-416e-afa6-59c5902741e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[3]/following::td[5]</value>
+      <webElementGuid>260b3899-a59a-4ed1-a246-56ad67c8e4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::td[2]</value>
+      <webElementGuid>1d92761d-abf8-433e-930a-4bf2be69c277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>dd6f28de-1544-442b-b3a6-d03b6d7b67d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'mp 3 ' or . = 'mp 3 ')]</value>
+      <webElementGuid>c8e041cf-3fcf-444e-821c-5e7f086b6492</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

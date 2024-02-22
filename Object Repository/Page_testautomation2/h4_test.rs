@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_test</name>
+   <tag></tag>
+   <elementGuidId>7f3f6310-a60a-4aa3-8d4e-0611e947c1b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.ss-text.ss-text__size--h4.ss-text__weight--normal.ss-text__color--grey.ss-text__line-height--large.ss-text__pre-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offset--wrapper']/div[2]/table/tbody/tr/td[7]/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>2c71ef9f-ba76-43f2-a05b-c0ac9c5fb5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-text ss-text__size--h4 ss-text__weight--normal ss-text__color--grey ss-text__line-height--large ss-text__pre-wrap</value>
+      <webElementGuid>99368228-f0b8-4617-9996-6710c55d06fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test</value>
+      <webElementGuid>323fd706-330f-4e7d-95c5-213e908ddec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;offset--wrapper&quot;)/div[@class=&quot;ss-tabular-responses--table ss-tabular-responses--table--horiz_scroll&quot;]/table[@class=&quot;ss-table ss-table--image ss-table--fixed-layout ss-table--horiz-scroll ss-table--cursor  ss-table--actions ss-table--checkbox&quot;]/tbody[@class=&quot;ss-overflow--visible&quot;]/tr[@class=&quot;ss-responses-table-row&quot;]/td[7]/h4[@class=&quot;ss-text ss-text__size--h4 ss-text__weight--normal ss-text__color--grey ss-text__line-height--large ss-text__pre-wrap&quot;]</value>
+      <webElementGuid>65690887-d644-46ee-8cb0-bac3bafb9536</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offset--wrapper']/div[2]/table/tbody/tr/td[7]/h4</value>
+      <webElementGuid>aaae0e87-d14e-4f36-8214-b5275da1a1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mp 3'])[1]/following::h4[1]</value>
+      <webElementGuid>f6bb83cc-80f5-43b5-867d-79ea3157b1cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/following::h4[1]</value>
+      <webElementGuid>6ee4e7f4-90f0-4981-a2d8-36f51b546c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test@testmail.com'])[1]/preceding::h4[1]</value>
+      <webElementGuid>cefb4c7f-cafd-4982-9c0e-109d803adc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Response'])[1]/preceding::h4[2]</value>
+      <webElementGuid>576337be-6692-4e12-b2f8-38538d3bf2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test']/parent::*</value>
+      <webElementGuid>7e57c51c-9012-4af0-9acd-6ded1caf5436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/h4</value>
+      <webElementGuid>0c973e51-918c-4dba-8d0c-15d56dceb608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'test' or . = 'test')]</value>
+      <webElementGuid>0860653d-86c5-4f1e-8592-6674cfbf49f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

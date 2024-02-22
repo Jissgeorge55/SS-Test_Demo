@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Rating</name>
+   <tag></tag>
+   <elementGuidId>8b43789e-435e-440b-ab01-a87b0a17c73b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div[2]/div/div/div[2]/div/div[2]/div[3]/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>8daddf2a-8419-4a99-af48-bcbc8d2cc4ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-text ss-text__size--h3 ss-text__weight--normal ss-text__color--grey ss-text__line-height--medium mb--sm</value>
+      <webElementGuid>ab06d647-607d-4f8d-8b21-e84df06c3958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rating</value>
+      <webElementGuid>708464b2-467f-45f3-8819-5397c0e7c17a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;ss-right-panel-wrapper&quot;]/div[@class=&quot;ss-right-panel-container ss-right-panel-container--large ss-right-panel-container--no-footer&quot;]/div[@class=&quot;ss-right-panel&quot;]/div[@class=&quot;ss-right-panel-contents&quot;]/div[@class=&quot;wplr--sm&quot;]/div[@class=&quot;wpt--sm&quot;]/div[@class=&quot;fx-row fx-ai--start fx--fw wmb--sm ss-responses-answer-block--wrapper&quot;]/div[@class=&quot;fx-column ss-responses-answer-block--right&quot;]/div[@class=&quot;fx-row fx-jc--between fx-ai--center&quot;]/h3[@class=&quot;ss-text ss-text__size--h3 ss-text__weight--normal ss-text__color--grey ss-text__line-height--medium mb--sm&quot;]</value>
+      <webElementGuid>7a33b528-ebe4-407f-b6b0-6d3ec1adcea3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div[2]/div/div/div[2]/div/div[2]/div[3]/div[2]/div/h3</value>
+      <webElementGuid>b149a9d5-64c7-4ecf-a147-7c5b93d42c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mp 3'])[1]/following::h3[2]</value>
+      <webElementGuid>b8703621-23ae-42c7-92b3-b2a3c0470621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Choice Question'])[1]/following::h3[2]</value>
+      <webElementGuid>5b827cc0-3835-4db0-a618-71ce7b6c8b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Question'])[1]/preceding::h3[2]</value>
+      <webElementGuid>9cf907a8-3055-44b8-9d6c-742b63f5f205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::h3[3]</value>
+      <webElementGuid>ef778b1e-0e4a-44bb-9e87-f2275617e112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rating']/parent::*</value>
+      <webElementGuid>e7da1fbf-d5d4-469b-9066-946b4cb04979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/h3</value>
+      <webElementGuid>a0ba4a32-6384-4f3a-b2c4-dd4237c7491e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = ' Rating' or . = ' Rating')]</value>
+      <webElementGuid>7bfa20cd-9a81-4570-acf3-0c9a7cc7e257</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

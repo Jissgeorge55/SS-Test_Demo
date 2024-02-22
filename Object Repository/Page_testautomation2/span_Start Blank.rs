@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start Blank</name>
+   <tag></tag>
+   <elementGuidId>6d1e5522-e0aa-4fd7-8e96-68dc153eb1d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.pr--xl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div[2]/div[2]/div/div[2]/div/div[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4b79c37-7454-486d-a6f3-88dac666d596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pr--xl</value>
+      <webElementGuid>0112101e-010e-40de-bccb-d1ee4f456c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Blank</value>
+      <webElementGuid>ac6d898e-aaba-4271-b74f-1e2b5ec45f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;ss-modal--wrapper ss-modal--wrapper__sm ss-modal--wrapper__lg ss-modal--wrapper__xs-full py-md-7 ss-modal--wrapper-new ss-modal--wrapper--no-close-btn&quot;]/div[@class=&quot;ss-modal--container ss-modal--wrapper-new__container&quot;]/div[@class=&quot;ss-new-survey-modal--wrapper d-flex align-items-stretch ss-new-survey-modal--wrapper-new&quot;]/div[@class=&quot;ss-new-survey-modal--right wp--lg&quot;]/div[@class=&quot;ss-new-survey-modal--classic&quot;]/div[@class=&quot;flex_row flex_row--row-mob flex_row--justify-center&quot;]/a[@class=&quot;ss-button ss-button__primary&quot;]/span[@class=&quot;pr--xl&quot;]</value>
+      <webElementGuid>cbfbe749-7edb-425d-9760-10066b282b88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div[2]/div[2]/div/div[2]/div/div[3]/a/span</value>
+      <webElementGuid>e060112e-7afc-475f-bb59-b1930acf0de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Used for creating surveys with complex question types.'])[1]/following::span[1]</value>
+      <webElementGuid>e097f78e-bfc6-438e-b428-18ac34124308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start a Classic Survey'])[1]/following::span[1]</value>
+      <webElementGuid>aa08b2fb-951c-4534-be88-79936575204c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Classic Templates'])[1]/preceding::span[1]</value>
+      <webElementGuid>4426bf43-26c5-4c22-83da-fe2d7e93adb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Blank']/parent::*</value>
+      <webElementGuid>0826f5d9-761a-4d1d-8803-117634df1ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>f8b05da6-ae14-417e-be0c-1ca2e84ce651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start Blank' or . = 'Start Blank')]</value>
+      <webElementGuid>fb6cdfe3-6f85-428c-b6e7-971d3ce71f1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

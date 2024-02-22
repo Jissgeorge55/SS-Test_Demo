@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue</name>
+   <tag></tag>
+   <elementGuidId>8c181471-430e-4cd0-a0e1-9de7b75c1d0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ss-primary-action-btn.ss-survey-font-family.ss-survey-text-size--base.sm_ss-survey-text-size--base.ss-survey-line-height--tight.ss-survey-text-weight--bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div[2]/div/div[2]/div/div/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0dbf5544-41ba-4048-bfa1-b526b1041c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-primary-action-btn ss-survey-font-family ss-survey-text-size--base sm_ss-survey-text-size--base ss-survey-line-height--tight ss-survey-text-weight--bold</value>
+      <webElementGuid>5647ec30-1199-47d8-98dc-af6567e4fa40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue  </value>
+      <webElementGuid>b0531a81-a697-43e4-90e0-5a8e20d031f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[2]/div[@class=&quot;surveysparrow-survey-container--classic-form&quot;]/div[@class=&quot;surveysparrow-survey-form-wrapper ss-survey-background&quot;]/div[@class=&quot;ss-fp-scroll ss-fake-scroll--center&quot;]/div[@class=&quot;ss-fp-scroll__item d-flex fx-column fx-jc--center&quot;]/div[@class=&quot;ss-fp-scroll__item-data-wrap&quot;]/div[@class=&quot;ss_cl_survey_qstn_item ss_cl_survey_qstn_item--section-intro active&quot;]/div[@class=&quot;ss_cl_qstn_action&quot;]/div[1]/button[@class=&quot;ss-primary-action-btn ss-survey-font-family ss-survey-text-size--base sm_ss-survey-text-size--base ss-survey-line-height--tight ss-survey-text-weight--bold&quot;]</value>
+      <webElementGuid>b29e1ab0-d0d1-4f2c-a4a6-dc0a5587dd74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div[2]/div/div[2]/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>185c395e-adae-4a63-80c3-9ee4eb4ff1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You are now entering a section with a set of questions.'])[1]/following::button[1]</value>
+      <webElementGuid>78e49215-a7a0-4368-b17a-c33c6244098d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Made with SurveySparrow'])[1]/preceding::button[1]</value>
+      <webElementGuid>2d41f0f4-cdbc-4946-aee4-65d450d59c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>1321c861-31ef-4fb7-9ea4-890ceb45cb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continue  ' or . = 'Continue  ')]</value>
+      <webElementGuid>b5b6b91f-30e0-4482-a517-06860f5783be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

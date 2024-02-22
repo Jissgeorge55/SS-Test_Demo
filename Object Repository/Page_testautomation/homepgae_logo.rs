@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>homepgae_logo</name>
+   <tag></tag>
+   <elementGuidId>7e921ae8-0bf7-486e-a9c3-c2178c054fb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade now!'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ss-dashboard--navbar-logo.me-7.d-flex.align-items-center > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c07955f4-5585-474d-9684-818e2e88ccd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>db0cb3ee-865e-46e8-a880-08d6e5657a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>652db770-9ddf-4aab-b72d-654f0c4eee54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 40 44</value>
+      <webElementGuid>c11d6c31-1c04-4998-9e88-b04c047908e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>89b241ad-1895-401c-b8ad-d08e6ffddf37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>73457efc-d861-477c-bf6d-6eb656496d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;grid grid-nogutter grid-nowrap&quot;]/div[@class=&quot;fx--fw ss-main-wrapper ss-main-wrapper--fixed-scrolling&quot;]/div[@class=&quot;ss-dashboard--navbar grid grid-nogutter fx-row fx--fw wplr--md px-5 px-md-6 border-bottom bg-grey-7 justify-content-between&quot;]/div[@class=&quot;ss-dashboard--navbar-left col-3 col-lg-6 fx-row&quot;]/div[@class=&quot;ss-dashboard--navbar-container&quot;]/a[1]/div[@class=&quot;ss-dashboard--navbar-logo me-7 d-flex align-items-center&quot;]/svg[1]</value>
+      <webElementGuid>4601351d-a18d-49cb-9852-228aa3b5e570</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade now!'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>da7b8315-7d60-473a-803d-260b84259be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>e9b6f9bd-7dbd-48ab-9730-298f8b69479d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surveys'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>28bda19e-7d85-495f-9483-6c807e6d776a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Templates'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>4d76d044-b84d-4f86-937d-19715eed0cc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

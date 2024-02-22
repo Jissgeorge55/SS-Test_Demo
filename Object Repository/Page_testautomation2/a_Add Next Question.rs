@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Next Question</name>
+   <tag></tag>
+   <elementGuidId>596ad7c5-04c8-4082-828f-4313ccf375ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ss-button.ss-button__primary.mx--zero.ml--lg.align-self-end</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='settings']/div/span/div/div[4]/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>367f73bb-a409-4ec4-a3bd-8422053a174f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ss-button ss-button__primary mx--zero ml--lg align-self-end</value>
+      <webElementGuid>7c2e0f56-b5b4-4fd1-bcf2-9d6301f98b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ccc94316-13f7-4a65-9faa-c8aae999e396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Next Question</value>
+      <webElementGuid>c6614c7e-308d-41c5-83f8-a998b21f7f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;settings&quot;)/div[@class=&quot;c_builder_contents&quot;]/span[@class=&quot;ss_builder_container&quot;]/div[@class=&quot;ss_content_wrapper&quot;]/div[@class=&quot;ss_row--builder&quot;]/div[@class=&quot;ss_question_settings_container&quot;]/div[@class=&quot;c-br-actions&quot;]/div[@class=&quot;ss_builder_container_boxed_title_bg flex-wrap box--bordered&quot;]/div[@class=&quot;c-br-actions-right generic-checkbox-wrapper ps-4 flex-grow-1&quot;]/a[@class=&quot;ss-button ss-button__primary mx--zero ml--lg align-self-end&quot;]</value>
+      <webElementGuid>2bcc9ccd-f6a7-4cc7-8d0b-e12b2ab18844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='settings']/div/span/div/div[4]/div/div/div/div[2]/a</value>
+      <webElementGuid>ee4f6aef-aa1b-4909-9e12-a46884c87dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Next Question')]</value>
+      <webElementGuid>e936b7f4-dc83-4237-82e2-75fc5934a2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/following::a[1]</value>
+      <webElementGuid>955839a0-81af-4858-8d7c-c0dd94c067a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logic'])[1]/following::a[1]</value>
+      <webElementGuid>5e0e6016-43db-46f5-9976-7f64c3c8a075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Left label'])[1]/preceding::a[1]</value>
+      <webElementGuid>e0f9fbf2-19b3-4c7f-85db-634065e0b5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Next Question']/parent::*</value>
+      <webElementGuid>46db93ab-d2b3-4a57-a93b-0717c76c7b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/a</value>
+      <webElementGuid>f8e9329f-e744-445d-9f60-60c97807e68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Add Next Question' or . = 'Add Next Question')]</value>
+      <webElementGuid>927f2875-bf12-4422-b133-a71c5b11c3cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
