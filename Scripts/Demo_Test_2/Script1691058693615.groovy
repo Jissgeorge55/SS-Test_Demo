@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://testautomation2.salesparrow.com/login')
+WebUI.navigateToUrl('https://testautomation.salesparrow.com/login')
 
 WebUI.setText(findTestObject('Object Repository/Page_testautomation2/input_Email Address_loginEmail'), 'automation+22@surveysparrow.com')
 
